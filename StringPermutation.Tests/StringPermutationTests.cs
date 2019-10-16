@@ -11,7 +11,7 @@ namespace StringPermutation.Tests
         [DataRow("potato", 24)]
         [DataRow("houck", 120)]
         [DataRow("Thomas", 720)]
-        [DataRow("abcdefghijklmnopqrstuv", 85357272)]
+        //[DataRow("abcdefghijklmnopqrstuv", 85357272)] I would not use this test, unless you like cooking your ram.
         public void StringPermutationTest(string permutationString, int expectedCount)
         {
             var perm = new Lib.StringPermutation(permutationString);
