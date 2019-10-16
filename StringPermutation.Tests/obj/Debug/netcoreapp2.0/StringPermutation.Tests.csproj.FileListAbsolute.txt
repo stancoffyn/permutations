@@ -1,0 +1,16 @@
+C:\Projects\dotnet\StringPermutation\StringPermutation.Tests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Projects\dotnet\StringPermutation\StringPermutation.Tests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Projects\dotnet\StringPermutation\StringPermutation.Tests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Projects\dotnet\StringPermutation\StringPermutation.Tests\bin\Debug\netcoreapp2.0\StringPermutation.Tests.deps.json
+C:\Projects\dotnet\StringPermutation\StringPermutation.Tests\bin\Debug\netcoreapp2.0\StringPermutation.Tests.runtimeconfig.json
+C:\Projects\dotnet\StringPermutation\StringPermutation.Tests\bin\Debug\netcoreapp2.0\StringPermutation.Tests.runtimeconfig.dev.json
+C:\Projects\dotnet\StringPermutation\StringPermutation.Tests\bin\Debug\netcoreapp2.0\StringPermutation.Tests.dll
+C:\Projects\dotnet\StringPermutation\StringPermutation.Tests\bin\Debug\netcoreapp2.0\StringPermutation.Tests.pdb
+C:\Projects\dotnet\StringPermutation\StringPermutation.Tests\obj\Debug\netcoreapp2.0\StringPermutation.Tests.csproj.CoreCompileInputs.cache
+C:\Projects\dotnet\StringPermutation\StringPermutation.Tests\obj\Debug\netcoreapp2.0\StringPermutation.Tests.AssemblyInfoInputs.cache
+C:\Projects\dotnet\StringPermutation\StringPermutation.Tests\obj\Debug\netcoreapp2.0\StringPermutation.Tests.AssemblyInfo.cs
+C:\Projects\dotnet\StringPermutation\StringPermutation.Tests\obj\Debug\netcoreapp2.0\StringPermutation.Tests.dll
+C:\Projects\dotnet\StringPermutation\StringPermutation.Tests\obj\Debug\netcoreapp2.0\StringPermutation.Tests.pdb
+C:\Projects\dotnet\StringPermutation\StringPermutation.Tests\bin\Debug\netcoreapp2.0\StringPermutation.Libraries.StringPermutation.dll
+C:\Projects\dotnet\StringPermutation\StringPermutation.Tests\bin\Debug\netcoreapp2.0\StringPermutation.Libraries.StringPermutation.pdb
+C:\Projects\dotnet\StringPermutation\StringPermutation.Tests\obj\Debug\netcoreapp2.0\StringPermutation.Tests.csproj.CopyComplete

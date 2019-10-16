@@ -1,0 +1,8 @@
+C:\Projects\dotnet\StringPermutation\StringPermutation.Libraries.StringPermutation\bin\Debug\netstandard2.0\StringPermutation.Libraries.StringPermutation.deps.json
+C:\Projects\dotnet\StringPermutation\StringPermutation.Libraries.StringPermutation\bin\Debug\netstandard2.0\StringPermutation.Libraries.StringPermutation.dll
+C:\Projects\dotnet\StringPermutation\StringPermutation.Libraries.StringPermutation\bin\Debug\netstandard2.0\StringPermutation.Libraries.StringPermutation.pdb
+C:\Projects\dotnet\StringPermutation\StringPermutation.Libraries.StringPermutation\obj\Debug\netstandard2.0\StringPermutation.Libraries.StringPermutation.csproj.CoreCompileInputs.cache
+C:\Projects\dotnet\StringPermutation\StringPermutation.Libraries.StringPermutation\obj\Debug\netstandard2.0\StringPermutation.Libraries.StringPermutation.AssemblyInfoInputs.cache
+C:\Projects\dotnet\StringPermutation\StringPermutation.Libraries.StringPermutation\obj\Debug\netstandard2.0\StringPermutation.Libraries.StringPermutation.AssemblyInfo.cs
+C:\Projects\dotnet\StringPermutation\StringPermutation.Libraries.StringPermutation\obj\Debug\netstandard2.0\StringPermutation.Libraries.StringPermutation.dll
+C:\Projects\dotnet\StringPermutation\StringPermutation.Libraries.StringPermutation\obj\Debug\netstandard2.0\StringPermutation.Libraries.StringPermutation.pdb
